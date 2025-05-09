@@ -1,0 +1,17 @@
+Both programs work with the same input file (with or without the number of restarts)
+
+The input file is a text file containing the following information:
+- The vertices and their values
+- The edges between vertices
+
+For iterative deepening, to run it, just type the following command:
+```
+python iterative_deepening.py
+```
+
+For hill climbing, to run it, just type the following command:
+```
+python hill_climbing.py
+```
+
+The output will be printed to the console.

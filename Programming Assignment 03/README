@@ -1,0 +1,16 @@
+
+The input file is a text file containing the following information:
+- First line indicating containing six parameters: non-terminal states, terminal states, actions, rounds, frequency of output, and hyperparameter M
+- Second line lists the terminal-state rewards as pairs
+- Third line lists the costs of each action
+- Subsequent lines provide transition probabilities for the markov decision process.
+
+Ensure that the input file is in the same directory as the `markov_decision.py` file. Name it as `input.txt`.
+
+To run the program, execute the following command in the terminal:
+```
+python markov_decision.py
+```
+
+The output will be printed onto:
+- `output.txt` file

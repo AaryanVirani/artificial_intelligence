@@ -1,0 +1,18 @@
+Ensure that the `DPLL.py` file is in the same directory as the `puzzleSolver.py` file. 
+
+The input file is a text file containing the following information:
+- First line indicating number of vertices, empty spaces, and maximum number of moves
+- Showing the initial state of the puzzle
+- Showing the final state of the puzzle
+- Subsequent lines showing the edges of the puzzle, with each line representing an edge
+
+Ensure that the input file is in the same directory as the `puzzleSolver.py` file. Name it as `input.txt`.
+
+To run the program, execute the following command in the terminal:
+```
+python puzzleSolver.py
+```
+
+The output will be printed onto two text files:
+- `frontend.txt` which prints out the corresponding clauses for the puzzle
+- `backend.txt` which prints out the solution to the puzzle, if it exists

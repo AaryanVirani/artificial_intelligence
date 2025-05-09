@@ -1,0 +1,15 @@
+The input file is a text file containing a bunch of biographies, structured as such:
+- First line: Name
+- Second line: Category
+- Third line: Biography text
+- Fourth line: Blank line
+
+Ensure that the input files are in the same directory as the `text_classification.py` file. 
+
+To run the program, execute the following command in the terminal:
+```
+python text_classification.py [input_file] [num_training_entries]
+```
+
+The output will be printed onto:
+- `output.txt` file

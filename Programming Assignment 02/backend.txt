@@ -1,0 +1,2 @@
+Output from back end:
+Move(1,2,0) Move(2,3,1) 

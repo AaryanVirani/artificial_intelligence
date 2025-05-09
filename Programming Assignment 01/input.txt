@@ -1,0 +1,12 @@
+18 V 3
+A 3
+B 5
+C 6
+D 10
+E 13
+
+A B
+A C
+B D
+C E
+D E
